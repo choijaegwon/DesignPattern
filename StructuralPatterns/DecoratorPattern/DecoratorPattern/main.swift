@@ -10,4 +10,6 @@ import Foundation
 let notifier = Notifier()
 let emailNotifier = EmailDecorator(notifier: notifier)
 let slackNotifier = SlackDecorator(notifier: emailNotifier)
+notifier.notify(message: "Hello")
+emailNotifier.notify(message: "Hello")
 slackNotifier.notify(message: "Hello")

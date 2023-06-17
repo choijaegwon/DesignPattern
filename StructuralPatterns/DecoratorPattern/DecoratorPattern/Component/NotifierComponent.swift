@@ -12,7 +12,3 @@ protocol NotifierComponent {
     /// 알람 보내기
     func notify(message: String)
 }
-
-
-
-
