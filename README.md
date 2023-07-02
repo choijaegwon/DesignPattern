@@ -15,3 +15,4 @@
 
 - [관찰자 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/ObserverPattern)
 
+- [커맨드 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/CommanPattern)
