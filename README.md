@@ -10,6 +10,8 @@
 ## [구조적 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns)
 - [데코레이터 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/DecoratorPattern)
 
+- [어댑터 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/AdapterPattern)
+
 ## [행동 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns)
 - [전략 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/StrategyPattern)
 
