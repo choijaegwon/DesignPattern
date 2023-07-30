@@ -22,3 +22,5 @@
 - [커맨드 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/CommanPattern)
 
 - [템플릿 메서드](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/TemplateMethodPattern)
+
+- [반복자 패턴 ](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/IteratorPattern)
