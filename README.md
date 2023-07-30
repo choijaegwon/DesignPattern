@@ -14,6 +14,8 @@
 
 - [퍼사드 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/FacadePattern)
 
+- [컴포지트 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/CompositePatterns)
+
 ## [행동 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns)
 - [전략 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/StrategyPattern)
 
