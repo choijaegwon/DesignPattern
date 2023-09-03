@@ -16,6 +16,8 @@
 
 - [컴포지트 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/CompositePatterns)
 
+- [프록시 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/ProxyPattern)
+
 ## [행동 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns)
 - [전략 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/StrategyPattern)
 
