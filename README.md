@@ -7,6 +7,8 @@
 
 - [싱글톤 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/CreationalDesignPatterns/SingletonPattern)
 
+- [빌더 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/CreationalDesignPatterns/BuilderPattern)
+
 ## [구조적 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns)
 - [데코레이터 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/DecoratorPattern)
 
