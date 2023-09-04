@@ -34,3 +34,5 @@
 - [반복자 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/IteratorPattern)
 
 - [상태 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/StatePattern)
+
+- [책임 연쇄 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/ChainOfResponsibilityPattern)
