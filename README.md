@@ -22,6 +22,8 @@
 
 - [브리지 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/BridgePattern)
 
+- [플라이 웨이트 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/StructuralDesignPatterns/FlyweightPattern)
+
 ## [행동 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns)
 - [전략 패턴](https://github.com/choijaegwon/DesignPattern/tree/main/BehavioralDesignPatterns/StrategyPattern)
 
