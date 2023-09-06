@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D4D1E4B12A519A29007B6346 /* CommanPattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CommanPattern.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4D1E4B12A519A29007B6346 /* CommandPattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CommandPattern.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4D1E4C32A519A69007B6346 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D4D1E4C52A519A74007B6346 /* Command.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Command.swift; sourceTree = "<group>"; };
 		D4D1E4C72A519AE3007B6346 /* Invoker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Invoker.swift; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		D4D1E4A82A519A29007B6346 = {
 			isa = PBXGroup;
 			children = (
-				D4D1E4B32A519A29007B6346 /* CommanPattern */,
+				D4D1E4B32A519A29007B6346 /* CommandPattern */,
 				D4D1E4B22A519A29007B6346 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,12 +49,12 @@
 		D4D1E4B22A519A29007B6346 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D4D1E4B12A519A29007B6346 /* CommanPattern.app */,
+				D4D1E4B12A519A29007B6346 /* CommandPattern.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D4D1E4B32A519A29007B6346 /* CommanPattern */ = {
+		D4D1E4B32A519A29007B6346 /* CommandPattern */ = {
 			isa = PBXGroup;
 			children = (
 				D4D1E4D02A519CAD007B6346 /* Command */,
@@ -63,7 +63,7 @@
 				D4D1E4CD2A519C86007B6346 /* Receiver */,
 				D4D1E4C32A519A69007B6346 /* main.swift */,
 			);
-			path = CommanPattern;
+			path = CommandPattern;
 			sourceTree = "<group>";
 		};
 		D4D1E4CD2A519C86007B6346 /* Receiver */ = {
@@ -103,9 +103,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D4D1E4B02A519A29007B6346 /* CommanPattern */ = {
+		D4D1E4B02A519A29007B6346 /* CommandPattern */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D4D1E4C02A519A2A007B6346 /* Build configuration list for PBXNativeTarget "CommanPattern" */;
+			buildConfigurationList = D4D1E4C02A519A2A007B6346 /* Build configuration list for PBXNativeTarget "CommandPattern" */;
 			buildPhases = (
 				D4D1E4AD2A519A29007B6346 /* Sources */,
 				D4D1E4AE2A519A29007B6346 /* Frameworks */,
@@ -115,9 +115,9 @@
 			);
 			dependencies = (
 			);
-			name = CommanPattern;
+			name = CommandPattern;
 			productName = CommanPattern;
-			productReference = D4D1E4B12A519A29007B6346 /* CommanPattern.app */;
+			productReference = D4D1E4B12A519A29007B6346 /* CommandPattern.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -136,7 +136,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D4D1E4AC2A519A29007B6346 /* Build configuration list for PBXProject "CommanPattern" */;
+			buildConfigurationList = D4D1E4AC2A519A29007B6346 /* Build configuration list for PBXProject "CommandPattern" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,7 +149,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D4D1E4B02A519A29007B6346 /* CommanPattern */,
+				D4D1E4B02A519A29007B6346 /* CommandPattern */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CommanPattern/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CommandPattern/Preview Content\"";
 				DEVELOPMENT_TEAM = 23DK26FW4N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -321,7 +321,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chojaegwon.CommanPattern;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chojaegwon.CommandPattern;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -342,7 +342,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CommanPattern/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CommandPattern/Preview Content\"";
 				DEVELOPMENT_TEAM = 23DK26FW4N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -362,7 +362,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chojaegwon.CommanPattern;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chojaegwon.CommandPattern;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -375,7 +375,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D4D1E4AC2A519A29007B6346 /* Build configuration list for PBXProject "CommanPattern" */ = {
+		D4D1E4AC2A519A29007B6346 /* Build configuration list for PBXProject "CommandPattern" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4D1E4BE2A519A2A007B6346 /* Debug */,
@@ -384,7 +384,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D4D1E4C02A519A2A007B6346 /* Build configuration list for PBXNativeTarget "CommanPattern" */ = {
+		D4D1E4C02A519A2A007B6346 /* Build configuration list for PBXNativeTarget "CommandPattern" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4D1E4C12A519A2A007B6346 /* Debug */,
